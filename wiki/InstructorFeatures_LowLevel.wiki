@@ -4,10 +4,10 @@
 = Instructor features =
 
 One to many relationships
- 1. Create workout programs with nutritional comments
- 2. View/track client progress
- 3. Ability to use the messaging service 
- 4. Rank is assigned by the instructor
+ - 1. Create workout programs with nutritional comments
+ - 2. View/track client progress
+ - 3. Ability to use the messaging service 
+ - 4. Rank is assigned by the instructor
  
 
 
