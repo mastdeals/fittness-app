@@ -1,13 +1,8 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
+#summary Low level description of user features in the app.
 
 
-= Details =
+= User features =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ * 1. View workout programs 
+ * 2. Update/track own progress
+ * 3. Ability to use the messaging service
