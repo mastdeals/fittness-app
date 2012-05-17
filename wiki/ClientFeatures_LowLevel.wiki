@@ -4,5 +4,29 @@
 = User features =
 
  * 1. View workout programs 
- * 2. Update/track own progress
- * 3. Ability to use the messaging service
+ * 2. Start workout
+ * 3. Update/track own progress
+ * 4. Ability to update weight and measurements
+ * 5. Ability to use the messaging service
+
+
+==  * 1. View workout programs ==
+
+   * List of all the exercises user has to do (descriptions, photos, videos)
+
+------
+
+==  * 2. Start workout ==
+
+   * Step by step workout process:
+     Two modes: manual and automatic (trainer)
+
+   * manual: user keeps track of his/her own progress by updating the exercise timeline
+
+   * automatic: user is guided throughout the program by a recorded voice or a timer and all the timeline updates are done automatically
+
+
+
+==  * 5. Ability to use the messaging service ==
+
+Same as instructor
