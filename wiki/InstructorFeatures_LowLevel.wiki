@@ -1,0 +1,31 @@
+#summary One-sentence summary of this page.
+
+
+= Instructor features =
+
+One to many relationships
+ 1. Create workout programs with nutritional comments
+ 2. View/track client progress
+ 3. Ability to use the messaging service 
+ 4. Rank is assigned by the instructor
+ 
+
+
+
+ == 1. Create workout programs with nutritional comments ==
+    
+    * Colorendar style
+    * Calendar and popup program block selector
+    * Ability to add nutritional comments
+------------------------------------------
+
+ == 2. View/track client progress ==
+
+    * Instructor takes and posts photos periodically
+    * Input weight and body measurements
+    * View overall graph displayed over time
+------------------------------------------
+
+ == 3. Ability to use the messaging service ==
+ 
+    * Email style messages: choose different message types: cheers, regular, so forth.
