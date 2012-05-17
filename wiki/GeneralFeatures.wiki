@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+* - Demo video, showing interactive process of how the app works
+
+* - Timed workouts. Delayed beeper to let the user get into position, prompt when 30 secs left, 15 secs.... good job, send alert to the trainer
+
+* - Ability for the trainer to record voice and attach to a program block
+
+
+* - On completion of the program for the day, click "send to trainer" button. If there's no internet connection, say "go online to send the update"
+
+* - 
