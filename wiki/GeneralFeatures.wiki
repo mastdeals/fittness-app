@@ -10,3 +10,5 @@
 * - On completion of the program for the day, click "send to trainer" button. If there's no internet connection, say "go online to send the update"
 
 * - Every program will have a name and a slogan
+
+* - Ability to deactivate. Client still can use the program but cannot user the workout mechanism, only to view the progress.
