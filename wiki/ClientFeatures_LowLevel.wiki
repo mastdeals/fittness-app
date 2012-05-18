@@ -5,7 +5,7 @@
 
  * 1. View workout programs 
  * 2. Start workout
- * 3. Update/track own progress
+ * 3. View graphical trends
  * 4. Ability to update weight and measurements
  * 5. Ability to use the messaging service
 
