@@ -1,0 +1,33 @@
+#summary One-sentence summary of this page.
+
+= * On the Website: =
+
+* - How the product works and what is the benefit
+
+* - Support blog
+
+* - Trainer registration:
+
+    1. First 3 clients -free or something like that (have to investigate the subscription models), then gotta pay money
+
+    2. Enters personal information (First name, address, etc...)
+
+    3. Receives a login id (token).
+
+    4. Goes to a link where he/she downloads the app.
+
+
+
+
+
+= * Inside the app: =
+
+    1. - The trainer inserts his login id and can now start using the app.
+
+    2. - Then he adds a client:
+
+    3. - This will generate a login id for a client and email it to him/her.
+
+    4. - Using this token client now can login and start using the app.
+
+    
