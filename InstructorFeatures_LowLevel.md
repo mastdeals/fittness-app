@@ -1,0 +1,30 @@
+# Instructor features #
+
+  * 1. Create workout programs with nutritional comments
+  * 2. View/track client progress
+  * 3. Ability to use the messaging service
+  * 4. Rank (client upgrade) is assigned by the instructor
+
+
+
+
+> # 1. Create workout programs with nutritional comments #
+
+  * Ability to use the calendar and popup selector for program blocks (Colorendar style)
+  * Ability to add nutritional comments
+
+---
+
+
+> # 2. View/track client progress #
+
+  * Instructor takes and posts photos periodically
+  * Inputs weight and body measurements
+  * Views overall graph displayed over time
+
+---
+
+
+> # 3. Ability to use the messaging service #
+
+  * Email style messages: choose different message types: cheers, regular, so forth.
